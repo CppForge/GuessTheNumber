@@ -22,3 +22,7 @@ Requisitos : Mantén la posición en el ranking, los puestos en disponibles para
 
 > 4. PRINCIPIANTE PROGRESIVO
 
+PARA QUE PUEDAS ENTENDER DE QUE VA ESTE PROYECTO MIRA EL VIDEO. Hecho por Sebastian inegrante de CppForge
+
+https://github.com/user-attachments/assets/3f7f337b-5ba4-44cb-9840-892f85520d37
+
